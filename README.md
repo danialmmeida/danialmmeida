@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danialmmeida
 - 👀 I’m interested in back-end or front-end
-- 🌱 I’m new in this world, and I'm taking a fullstack developer course
+- 🌱 I’m new in this "world", and I'm taking a fullstack developer course
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me danielealmeidasilva28@gmail.com
 
